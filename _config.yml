@@ -1,1 +1,10 @@
 theme: minima
+title: Seeds of Thought
+description: 記錄生活與學習
+author: Zoe
+
+show_excerpts: true
+minima:
+  social_links:
+    github: https://github.com/zoencw
+    email: zoecwangw@gmail.com
